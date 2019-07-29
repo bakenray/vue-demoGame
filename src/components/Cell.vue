@@ -39,7 +39,6 @@ export default {
         font-size: 40px;
         font-weight: bold;
     }
-
 @media(max-width:768px) {
     .cell{
         display: flex;

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5a615ed2db9254836bba5f9435774dcc.js"
+  "/vue-demoGame/dist/precache-manifest.12eb4206af791bf410f209045875caf6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-comein"});
